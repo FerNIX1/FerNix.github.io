@@ -43,6 +43,20 @@ body{
     justify-content: center;
     align-items: center;
 }
+/* Media query para pantallas más pequeñas */
+@media (max-width: 768px) {
+    .wrapper {
+        height: 500px; /* Ajusta la altura para pantallas pequeñas */
+    }
+
+    .espaciado-superior1 {
+        margin-top: 60px; /* Ajusta el margen superior para pantallas pequeñas */
+    }
+
+    .espaciado-superior2 {
+        margin-top: 40px; /* Ajusta el margen superior para pantallas pequeñas */
+    }
+}
 .box div{
     position: absolute;
     width: 60px;
