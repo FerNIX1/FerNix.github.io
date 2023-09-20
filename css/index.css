@@ -33,7 +33,7 @@ body{
     background-size: 100% auto; /* Cambiado para cubrir el ancho de la pantalla */
     background-position: center center;
     background-repeat: no-repeat;
-    /*height: 500px;*/
+    height: 300px;
     display: flex;
     justify-content: center;
     align-items: center;
