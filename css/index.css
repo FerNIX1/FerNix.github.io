@@ -43,34 +43,7 @@ body{
     justify-content: center;
     align-items: center;
 }
-/* Media query para pantallas más pequeñas */
-@media (max-width: 768px) {
-    .wrapper {
-        height: 500px; /* Ajusta la altura para pantallas pequeñas */
-    }
 
-    .espaciado-superior1 {
-        margin-top: 60px; /* Ajusta el margen superior para pantallas pequeñas */
-    }
-
-    .espaciado-superior2 {
-        margin-top: 40px; /* Ajusta el margen superior para pantallas pequeñas */
-    }
-}
-/* Media query para pantallas de 500x700 */
-@media (min-width: 500px) and (max-width: 700px) {
-    .wrapper {
-        height: 800px; /* Ajusta la altura para pantallas de 500x700 */
-    }
-
-    .espaciado-superior1 {
-        margin-top: 300px; /* Ajusta el margen superior para pantallas de 500x700 */
-    }
-
-    .espaciado-superior2 {
-        margin-top: 110px; /* Ajusta el margen superior para pantallas de 500x700 */
-    }
-}
 .box div{
     position: absolute;
     width: 60px;
