@@ -23,12 +23,7 @@ body{
     position: relative;
     overflow: hidden;
 }*/
-.espaciado-superior1{
-    margin-top: 120px;
-}
-.espaciado-superior2{
-    margin-top: 100px;
-}
+
 
 .wrapper{
     position: relative;
@@ -38,7 +33,7 @@ body{
     background-size: 100% auto; /* Cambiado para cubrir el ancho de la pantalla */
     background-position: center center;
     background-repeat: no-repeat;
-    height: 500px;
+    /*height: 500px;*/
     display: flex;
     justify-content: center;
     align-items: center;
